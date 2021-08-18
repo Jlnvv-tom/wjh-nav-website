@@ -68,7 +68,7 @@ export default {
       // console.log(`每页 ${val} 条`)
     },
     handleCurrentChange (val) {
-      console.log(`当前页: ${val}`)
+      // console.log(`当前页: ${val}`)
     }
   }
 }
